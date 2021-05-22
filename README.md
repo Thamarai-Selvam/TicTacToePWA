@@ -2,8 +2,8 @@
 A simple TicTacToe PWA using Angular
 
 ## Tech Used 
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>  &nbsp;&nbsp;  
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white")  
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 
@@ -13,8 +13,8 @@ A simple TicTacToe PWA using Angular
   Angular 
   
 #### Libraries/modules
- <em>run ```yarn install``` or ```npm install``` inside auth-client dir. to install them  </em>  
- 
+ <em>run ```yarn install``` or ```npm install``` to install them  </em>  
+
   yarn/npm  
   Angular CLI  
   
